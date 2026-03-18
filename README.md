@@ -14,6 +14,7 @@ Their content often features guides on hosting Discord bots and tools like Kerit
 
 **Links:**  
 🔗 YouTube — https://youtube.com/@theaxes ([The Axes on YouTube](https://youtube.com/@theaxes))  
+<img width="1363" height="213" alt="image" src="https://github.com/user-attachments/assets/5836e369-a83b-412a-a292-b77ff63c6369" />
 
 ---
 
@@ -45,7 +46,7 @@ Musico is useful for communities looking to add music playback with Lavalink sup
 
 ## 🌐 About Kerit Cloud
 
-**Kerit Cloud** is a cloud hosting provider focusing on Discord bots, Lavalink nodes, Minecraft servers, and web applications. It offers fast deployment, high performance, global infrastructure, and developer‑friendly tools. :contentReference[oaicite:3]{index=3}
+**Kerit Cloud** is a cloud hosting provider focusing on Discord bots, Lavalink nodes, Minecraft servers, and web applications. It offers fast deployment, high performance, global infrastructure, and developer‑friendly tools. 
 
 Kerit Cloud is trusted by developers to run:
 
