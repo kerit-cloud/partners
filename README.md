@@ -43,6 +43,33 @@ This repository showcases the creators, developers, and communities that power t
 * **Links:** [Website](https://kennyy.com.br/) | [Invite Bot](https://discord.com/oauth2/authorize?client_id=920133124095098881) | [Top.gg](https://top.gg/bot/920133124095098881)
 
 ---
+## slug - multipurpose
+
+slug is a modern multipurpose Discord bot focused on performance, customization, moderation, music, economy, utilities, and community systems.
+
+Built with scalability in mind, slug combines advanced moderation and antinuke protection with large-scale social and economy features, including Guardian verification, family systems, businesses, gambling, server banks, profile customization, and more.
+
+The project also includes a full web ecosystem with public profiles, dashboards, statistics, avatar history, premium management, and integrations like Valorant account support.
+
+### Highlights
+
+* Advanced moderation + antinuke systems
+* Guardian credential verification layer
+* Large economy system with businesses, companies, shares, gambling, labs, police, housing, and more
+* Music, LastFM, and media integrations
+* Public web profiles and dashboard
+* Premium server customization
+* Multi-language infrastructure
+* High-performance backend focused on reliability and low-latency execution
+
+### Links
+
+* Website: https://slug.lat
+* Documentation: https://docs.slug.lat
+* Support Server: https://discord.gg/bsDfnC6vZr
+* Invite: https://slug.lat/invite
+
+
 
 ## 🌐 Powered by Kerit Cloud
 
@@ -56,7 +83,6 @@ This repository showcases the creators, developers, and communities that power t
 
 **Start Hosting Today:** [kerit.cloud](https://kerit.cloud/)
 
----
 
 ## 📚 Resources & Support
 
